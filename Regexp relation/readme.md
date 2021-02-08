@@ -28,17 +28,17 @@
 
 ## Sample Input
 
-5
-((E|a)b*)* (a|b)*
-b*a*b?a* b*a*ba*|b*a*
-b*a*b?a* (b*|a*)(b|E)a*
-(c|d)*c(c|d)(c|d) (c|d)*d(c|d)(c|d)
-x+y+z+ x*y*z*
+	5
+	((E|a)b*)* (a|b)*
+	b*a*b?a* b*a*ba*|b*a*
+	b*a*b?a* (b*|a*)(b|E)a*
+	(c|d)*c(c|d)(c|d) (c|d)*d(c|d)(c|d)
+	x+y+z+ x*y*z*
 
 ## Sample Output
 
-=
-=
->
-!
-<
+	=
+	=
+	>
+	!
+	<
